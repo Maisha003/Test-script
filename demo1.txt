@@ -1,0 +1,10 @@
+ Volume in drive C is New Volume
+ Volume Serial Number is 06AD-3D6B
+
+ Directory of C:\Users\mri\OneDrive - iGlobe\Desktop\Demo project_git
+
+05/23/2022  03:22 PM    <DIR>          .
+05/23/2022  03:22 PM    <DIR>          ..
+05/23/2022  03:22 PM                 0 demo1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  152,814,772,224 bytes free
